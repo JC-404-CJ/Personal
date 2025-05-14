@@ -1,3 +1,7 @@
+pip install matplotlib
+pip install streamlit
+pip install numpy
+pip install sklearn
 import matplotlib.pyplot as plt
 import streamlit as st
 import numpy as np
